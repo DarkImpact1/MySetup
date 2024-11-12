@@ -8,7 +8,6 @@ This project is a Python-based automation script to download and install popular
 ## Features
 
 - **Automated Downloads**: Downloads applications from predefined URLs.
-- **Progress Tracking**: Shows a progress bar during download.
 - **Silent Installations**: Installs applications silently without user interaction.
 - **Cleanup**: Deletes installer files after successful installation.
 
